@@ -22,4 +22,10 @@ There is also a session.json file, which is an export of the data collected from
 
 ## Issues encountered
 
+While creating the firewall, I initially kept getting errors. However the way to fix this was by
+'''
+git auth login
+'''
+to get the correct authorization needed.
+
 The first time I deployed my honeypot, no attackes were observed, ad I couldn't run the nmap command successfully on my terminal. I'm not sure as to why that occurred. However, wehn I deleted my VM's and basically ran through the step again to set it up, it worked properly.
