@@ -1,4 +1,4 @@
-# websec_week9
+# Week 9 Project: Honeypot
 ## Overview and setup
 
 The goal of this lab was to deploy a honepot usng the Modern Honey Network (MHN) netwok and collect data about the attack.
