@@ -14,4 +14,5 @@ Total number of attacks: > 37,500
 Most attacked port: 3389
 
 Gif showing results:
+<img src="https://github.com/mpai000/websec_week9/blob/master/honeypot1.gif">
 
